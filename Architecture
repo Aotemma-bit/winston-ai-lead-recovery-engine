@@ -1,0 +1,28 @@
+                  CONVERSATION / EVENT
+                          │
+                          ▼
+                   WEBHOOK TRIGGER
+                          │
+                          ▼
+                  EVENT PROCESSING
+                          │
+                          ▼
+                  LEAD RECOVERY LOGIC
+                          │
+                          ▼
+                    AI PROCESSING
+                          │
+                    ┌─────┴─────┐
+                    │           │
+                    ▼           ▼
+              CONDITION A   CONDITION B
+                    │           │
+                    └─────┬─────┘
+                          ▼
+                  RECOVERY ACTION
+                          │
+                          ▼
+                   FOLLOW-UP FLOW
+                          │
+                          ▼
+                    LEAD RESPONSE
