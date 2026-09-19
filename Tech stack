@@ -1,0 +1,7 @@
+| Technology                | Purpose                           |
+| ------------------------- | --------------------------------- |
+| **n8n**                   | Workflow orchestration            |
+| **AI / LLM processing**   | Conversational lead recovery      |
+| **Webhooks**              | Event-driven workflow initiation  |
+| **Conditional logic**     | Routing and workflow decisions    |
+| **External integrations** | Lead and communication processing |
